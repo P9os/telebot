@@ -1,4 +1,4 @@
-module github.com/p9os/telebot.v3
+module github.com/p9os/telebot
 
 go 1.13
 
